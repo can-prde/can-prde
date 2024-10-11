@@ -1,0 +1,1 @@
+export const canisterId = "bkyz2-fmaaa-aaaaa-qaaaq-cai";
